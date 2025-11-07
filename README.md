@@ -18,7 +18,7 @@ There is a Department entity (with fields: companyName, name and description) an
 
 3.	Composite with identity fields inside the entity class (using @IdClass)
 
-You need to implement all three cases.
+**CASE 3#** :
 
 Composite with identity fields inside the entity class (using @IdClass)
 
